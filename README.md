@@ -85,4 +85,4 @@ $ python3 -m http.server 8000
 
 
 ## misc
-+ You cam talk via issues. 
++ You can talk via issues. 
