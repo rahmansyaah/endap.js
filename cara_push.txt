@@ -1,0 +1,7 @@
+git add folder/file.txt
+git commit -am "deskripsi"
+
+git status
+git push => insert username dan PersonalAccessToken
+
+~~coba referesh repo~~
