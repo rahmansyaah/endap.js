@@ -60,3 +60,25 @@ $ exit
 ```
 + Or simply close the window.
 
+
+## python
++ Install Python for Windows from https://www.python.org/downloads/.
+
+
+## server
++ Open Command Prompt on Windows.
++ Run HTTP server
+```
+$ python3 -m http.server 8000
+```
++ Open a web browser, e.g. Chrome.
++ Type in the address `http://localhost:8000`.
++ Find `modules` and open `xx` as instructed in a session.
++ To close HTTP server press CTRL+C in Command Prompt.
++ Type `exit` or simply close the window.
+
+
+## editting
++ Install a plain text editor, e.g. Notepad++ from https://notepad-plus-plus.org/downloads/ or other one of your choice.
++ Open it and create files or folder in `endap.js/module/xx`.
++ Remember to add, commit, and push using Git for any changes.
